@@ -1,1 +1,1 @@
-Pascal's Triangle coded in Java
+Pascal's Triangle coded in Java.
